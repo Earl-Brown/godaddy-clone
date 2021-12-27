@@ -1,0 +1,78 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 20 Jul 2021 21:23:23 at http://theGleep:i%213atBrofa@theGleep.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack "-qwr4%e0C2%Ps0u1%B%s%uN0%I0p3DaK0c8H0%kf2A %f#f" -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://theGleep:i%213atBrofa@theGleep.com -O1 "D:\temp\sitetest\sitetest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:23:24	Warning: 	Moved Permanently for theGleep:i%213atBrofa@thegleep.com/
+21:23:24	Warning: 	File has moved from theGleep:i%213atBrofa@thegleep.com/ to http://thegleep.com/index.php?title=Main_Page
+21:23:50	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Talk:Main_Page (from thegleep.com/index.php?title=Main_Page)
+21:26:19	Warning: 	Incorrect length (131344!=206535 expected) for thegleep.com/images/Catacombs.gif
+21:26:30	Warning: 	Incorrect length (131097!=316865 expected) for thegleep.com/images/Crossglen.gif
+21:26:40	Warning: 	Incorrect length (132397!=254550 expected) for thegleep.com/images/Flagstone.gif
+21:28:18	Warning: 	Incorrect length (131113!=321383 expected) for thegleep.com/images/Vilegard.gif
+21:28:21	Warning: 	Incorrect length (394222!=5518256 expected) for thegleep.com/images/Fallhaven.zip
+21:28:22	Warning: 	Incorrect length (393915!=868447 expected) for thegleep.com/images/Fallhaven.gif
+21:28:56	Warning: 	Incorrect length (525424!=686265 expected) for thegleep.com/images/Blackwater_mountain.gif
+21:30:30	Warning: 	Incorrect length (526809!=658787 expected) for thegleep.com/images/Pwcave.gif
+21:34:01	Warning: 	Incorrect length (1315633!=1499420 expected) for thegleep.com/images/WorldMap_Thumbnail.gif
+21:40:51	Warning: 	Incorrect length (4073323!=4218746 expected) for thegleep.com/images/Pwcave.zip
+21:44:16	Warning: 	Incorrect length (4863207!=4985940 expected) for thegleep.com/FreeRootBeer/2012-01-(Jan)-15/Vengeance Take 2 (No Bass).mp3
+21:44:16	Warning: 	Incorrect length (4866768!=5058890 expected) for thegleep.com/FreeRootBeer/2012-01-(Jan)-15/Vengeance take 1.mp3
+21:45:22	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=TheGleep:Privacy_policy (from thegleep.com/index.php?title=Main_Page)
+21:45:22	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=TheGleep:About (from thegleep.com/index.php?title=Main_Page)
+21:45:22	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=TheGleep:General_disclaimer (from thegleep.com/index.php?title=Main_Page)
+21:45:22	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Talk:Android (from thegleep.com/index.php?title=Android)
+21:45:26	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=User_talk:MediaWiki_default (from thegleep.com/index.php?title=Main_Page&action=history)
+21:45:26	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Talk:Wishlist (from thegleep.com/index.php?title=Wishlist)
+21:45:27	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Category_talk:Recipes (from thegleep.com/index.php?title=Category:Recipes)
+21:45:27	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Category_talk:Programming (from thegleep.com/index.php?title=Category:Programming)
+21:45:28	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Category_talk:Projects (from thegleep.com/index.php?title=Category:Projects)
+21:45:28	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Talk:Android/Music_Tutor (from thegleep.com/index.php?title=Android/Music_Tutor)
+21:45:28	Warning: 	File not parsed, looks like binary: thegleep.com/images/Blackwater_mountain.xcf
+21:45:28	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/images/Blackwater_mountain.gif (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+21:45:28	Warning: 	File not parsed, looks like binary: thegleep.com/images/Catacombs.xcf
+21:45:28	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/images/Catacombs.gif (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+21:45:28	Warning: 	File not parsed, looks like binary: thegleep.com/images/Clearing.xcf
+21:45:28	Warning: 	File not parsed, looks like binary: thegleep.com/images/Crossglen.xcf
+21:45:28	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/images/Crossglen.gif (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+21:45:28	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/images/Fallhaven.zip (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+21:45:28	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/images/Fallhaven.gif (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+21:45:41	Warning: 	File not parsed, looks like binary: thegleep.com/images/Flagstone.xcf
+21:45:41	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/images/Flagstone.gif (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+21:45:55	Warning: 	File not parsed, looks like binary: thegleep.com/images/Gargoylecave.xcf
+21:45:55	Warning: 	File not parsed, looks like binary: thegleep.com/images/Hauntedhouse.xcf
+21:45:55	Warning: 	File not parsed, looks like binary: thegleep.com/images/Houseatcrossroads.xcf
+21:45:55	Warning: 	File not parsed, looks like binary: thegleep.com/images/Jan_pitcave.xcf
+21:45:55	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/images/Pwcave.zip (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+21:45:59	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/images/Pwcave.gif (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+21:46:01	Warning: 	File not parsed, looks like binary: thegleep.com/images/Snakecave.xcf
+21:46:01	Warning: 	File not parsed, looks like binary: thegleep.com/images/Vilegard.xcf
+21:46:01	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/images/Vilegard.gif (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+21:46:19	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/images/WorldMap_Thumbnail.gif (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+21:46:21	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Talk:Android/Andor%27s_Trail (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+21:46:21	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Talk:Arduino (from thegleep.com/index.php?title=Arduino)
+21:46:21	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Category_talk:Alternative_Energy (from thegleep.com/index.php?title=Category:Alternative_Energy)
+21:46:22	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Category_talk:Music (from thegleep.com/index.php?title=Category:Music)
+21:46:22	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Category_talk:Mashups (from thegleep.com/index.php?title=Category:Mashups)
+21:46:28	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Category_talk:Lead_Sheets (from thegleep.com/index.php?title=Category:Lead_Sheets)
+21:46:28	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Talk:%22My%22_Bands (from thegleep.com/index.php?title=%22My%22_Bands)
+21:46:29	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/FreeRootBeer/2012-01-(Jan)-15/Vengeance take 1.mp3 (from thegleep.com/index.php?title=Free_Root_Beer)
+21:46:32	Warning: 	Incorrect length (786437!=868447 expected) for thegleep.com/images/Fallhaven.gif
+21:46:32	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/FreeRootBeer/2012-01-(Jan)-15/Vengeance Take 2 (No Bass).mp3 (from thegleep.com/index.php?title=Free_Root_Beer)
+21:46:35	Warning: 	Incorrect length (4861592!=5034408 expected) for thegleep.com/FreeRootBeer/2012-02-(Feb)-05/Vengeance.mp3
+21:46:35	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/FreeRootBeer/2012-02-(Feb)-05/Vengeance.mp3 (from thegleep.com/index.php?title=Free_Root_Beer)
+21:49:27	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Talk:Free_Root_Beer (from thegleep.com/index.php?title=Free_Root_Beer)
+21:49:27	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Talk:Earl-n-I (from thegleep.com/index.php?title=Earl-n-I)
+21:49:28	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Talk:Favorite_Bands (from thegleep.com/index.php?title=Favorite_Bands)
+21:49:28	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Category_talk:Beliefs (from thegleep.com/index.php?title=Category:Beliefs)
+21:49:28	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Category_talk:Beliefs/Mormonism (from thegleep.com/index.php?title=Category:Beliefs/Mormonism)
+21:49:29	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Category_talk:Beliefs/Christianity (from thegleep.com/index.php?title=Category:Beliefs/Christianity)
+21:49:29	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Category_talk:Beliefs/Cosmology (from thegleep.com/index.php?title=Category:Beliefs/Cosmology)
+21:49:29	Error: 	"Not Found" (404) at link thegleep.com/index.php?title=Talk:FAQ (from thegleep.com/index.php?title=FAQ)
+21:49:48	Warning: 	Retry after error -4 (Interrupted transfer) at link thegleep.com/images/Fallhaven.gif (from thegleep.com/index.php?title=Android/Andor%27s_Trail)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 minutes 27 seconds : 654 links scanned, 613 files written (104272956 bytes overall) [96676790 bytes received at 60917 bytes/sec], 11656732 bytes transferred using HTTP compression in 647 files, ratio 29%, 12.3 requests per connection
+(26 errors, 41 warnings, 0 messages)
